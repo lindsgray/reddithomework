@@ -1,0 +1,18 @@
+.border {
+    border: 5px dashed green;
+}
+
+.margin {
+    margin-top: 50px;
+}
+
+.search-row {
+    margin-top: 35px;
+}
+
+.link {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
